@@ -9,3 +9,6 @@ for the microcontroller i used arduino uno both in GS and roboboat
 
 [![Roboboat](https://img.youtube.com/vi/-04ABM0LRGk/0.jpg)](https://www.youtube.com/watch?v=-04ABM0LRGk)
 
+[![Roboboat](https://img.youtube.com/vi/ty5yiIIjeWo/0.jpg)](https://www.youtube.com/watch?v=ty5yiIIjeWo)
+
+
