@@ -1,5 +1,5 @@
 # Roboboat
-I would like to share one of my robotic project related to surface unmaned vehicle
+robotic project related to surface unmaned vehicle
 
 there are ground station controller and main microcontroller 
 the communication between GS and the robot using APC220 that use low frequency 433Mhz 
